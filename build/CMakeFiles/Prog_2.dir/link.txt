@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Prog_2.dir/prog2test.cpp.o CMakeFiles/Prog_2.dir/MyGraph.cpp.o -o Prog_2 

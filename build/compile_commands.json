@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/jadon/algos/Project2/build",
+  "command": "/usr/bin/c++  -I/home/jadon/algos/Project2/. -g -std=gnu++14 -o CMakeFiles/Prog_2.dir/prog2test.cpp.o -c /home/jadon/algos/Project2/prog2test.cpp",
+  "file": "/home/jadon/algos/Project2/prog2test.cpp"
+},
+{
+  "directory": "/home/jadon/algos/Project2/build",
+  "command": "/usr/bin/c++  -I/home/jadon/algos/Project2/. -g -std=gnu++14 -o CMakeFiles/Prog_2.dir/MyGraph.cpp.o -c /home/jadon/algos/Project2/MyGraph.cpp",
+  "file": "/home/jadon/algos/Project2/MyGraph.cpp"
+}
+]

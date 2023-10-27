@@ -1,0 +1,3 @@
+/home/jadon/algos/Project2/build/CMakeFiles/Prog_2.dir
+/home/jadon/algos/Project2/build/CMakeFiles/edit_cache.dir
+/home/jadon/algos/Project2/build/CMakeFiles/rebuild_cache.dir
