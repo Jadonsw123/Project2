@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <set>
 #ifndef MYGRAPH_H
 #define MYGRAPH_H
 using namespace std;
@@ -21,7 +22,6 @@ public:
     MyHelper();
     vector<Link> sortedList;
     vector<Link> MST;
-
     int numOfNodes;
 };
 
@@ -32,6 +32,7 @@ ostream &operator<<(ostream &, const Link &);
 class MyGraph {
 //    vector<vector<Link>> adjacencyList;
 int numOfNodes;
+std::set<std::pair<int, int>> edgeSet;
 vector<Link> sortedList;
 public:
     MyGraph();
@@ -45,7 +46,6 @@ public:
     int findRoot(vector<int> &parent, int node);
 
     void output(ostream &os);
-    void sortGraph();
 
     pair<bool, float> weight(int a, int b);
 

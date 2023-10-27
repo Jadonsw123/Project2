@@ -7,11 +7,11 @@
 
 int main()
 {
-    ifstream ifile("../test2_1.txt");
+    // ifstream ifile("../test2_1.txt");
 //    ifstream ifile("../test2_2.txt");
 //    ifstream ifile("../dense_graph.txt");
 //    ifstream ifile("../test2_3.txt");
-//    ifstream ifile("../test2_4.txt");
+   ifstream ifile("../test2_4.txt");
     int n, e;
     vector<float> satcost;
 
